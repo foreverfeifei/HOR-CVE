@@ -1,4 +1,4 @@
-## Online Hotel Reservation System has an SQL injection vulnerability
+## Online Hotel Reservation System has an File upload vulnerability
 
 ## Affected version:
 
