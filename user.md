@@ -34,6 +34,7 @@ Priority: u=0, i
 username=admin%27+or+1%3D1--+&password=s&login=
 ```
 
+![image](https://github.com/foreverfeifei/HOR-CVE/blob/main/Pasted%20image%2020251021144102.png)
 
 
 
