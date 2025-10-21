@@ -75,4 +75,4 @@ HOR/admin/reserve.php
 
 image:
 
-![image](https://github.com/foreverfeifei/HOR-CVE/blob/main/Pasted%20image%2020251021141943.png)
+![image](https://github.com/foreverfeifei/HOR-CVE/blob/main/Pasted%20image%2020251021162023.png)
